@@ -1,4 +1,4 @@
-# BlackJack Vite 2024 jose espinoza
+# BlackJack Vite 2024 jose espinoza olmedo
 
 Pasos para ejecutar proyecto:
 
